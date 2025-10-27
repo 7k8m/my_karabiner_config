@@ -20,6 +20,10 @@
                         {
                             "from": { "key_code": "left_command" },
                             "to": [{ "key_code": "left_alt" }]
+                        },
+                        {
+                            "from": { "key_code": "right_alt" },
+                            "to": [{ "key_code": "right_command" }]
                         }
                     ]
                 }
